@@ -13,6 +13,7 @@ A small, **portfolio-ready** reference project that demonstrates:
 This is intentionally simple, but **production-minded** (typed, async, readable, easy to extend).
 
 ---
+![Demo Screenshot](docs/images/demo.png)
 
 ## Architecture
 
