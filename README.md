@@ -1,4 +1,4 @@
-![CI](https://github.com/galaxog/kafka-socket-demo/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/galaxog/kafka-socket-demo/blob/main/.github/workflows/ci.yaml/badge.svg)
 
 # FastAPI + Kafka + Postgres + Socket.IO (Docker Compose Demo)
 
