@@ -39,10 +39,16 @@ This is intentionally simple, but **production-minded** (typed, async, readable,
 
 ## Quick start
 
-### 1) Run everything
+### 1) Run everything (Docker)
 
 ```bash
 docker compose up --build
+```
+#### Or with makefile
+```bash
+make up
+make down
+make test
 ```
 
 API will be available at:
